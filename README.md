@@ -1,4 +1,4 @@
-<h2 align="left">Saudações 👋!  Sou Miguel, dev fullstack apaixonado por segurança da Informação, Web Development e One Piece!</h2>
+<h2 align="left">Saudações 👋!  Sou Miguel, dev fullstack apaixonado por segurança da Informação e Web Development e apaixonado por One Piece!</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif"  />
+<img align="right" height="140" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif"  />
 
 ###
 
