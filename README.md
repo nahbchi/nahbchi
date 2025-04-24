@@ -1,9 +1,17 @@
-<h2 align="left">Wassup! I'm Miguel, a Fullstack Web Developer and a Cybersecurity Researcher 🤓☝️, focused on red team and Penetration Test. Feel free to watch my stacks and repos 😮</h2>
+<h2 align="center">Web Development, Cyber Security</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x1a2dyc3VsOW4wMGNmMHl4ZW83Mjk0bGl0MjUyd2Nuc2V1YnZuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EWFTPBCzLAodyM/giphy.gif"  />
+  <img height="200" src="https://i.pinimg.com/736x/99/d2/62/99d2620204f45aac403949bab4257c17.jpg"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahbchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -44,14 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahbchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
