@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.redd.it/billy-bat-from-naoki-urasawas-billy-bat-manga-v0-snus3euzgp6e1.jpg?width=955&format=pjpg&auto=webp&s=94bb4d7dee1893a77996f8f7b76eaa245c19f363"  />
+  <img height="200" src="https://morningroo.com/wp-content/uploads/2016/08/627.png?w=750"  />
 </div>
 
 ###
