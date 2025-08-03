@@ -4,12 +4,12 @@
 
 ###
 
-<h3 align="center">"I have spent all my life resisting the desire to end it." — Franz Kafka</h3>
+<h3 align="center">"And, one day, I am going to grow wings." — Radiohead</h3>
 
 ###
 
 <div align="center">
-  <img height="270" src="https://i.pinimg.com/736x/64/a7/1a/64a71a0f0b298127aa1366d77b2929f9.jpg"  />
+  <img height="270" src="https://i.pinimg.com/1200x/7b/3b/10/7b3b10c61f95af051c06cc354d12eb73.jpg"  />
 </div>
 
 ###
