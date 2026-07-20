@@ -28,6 +28,5 @@
 
 ###
 
-<h4 align="center">“There are two colors in my head.” — Radiohead</h4>
 
 ###
