@@ -1,4 +1,4 @@
-<h1 align="center">Back-end developer, Security Analyst, and Malware Researcher</h1>
+<h1 align="center">Back-end developer, Security Analyst and Malware Researcher</h1>
 
 ###
 
